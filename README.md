@@ -9,7 +9,7 @@
 
 > The HTML \<body> element represents the content of an HTML document. There is only one set of \<body> tags \</body> nested inside of the \<html> tags \</html> element in a document.
 
-> What's inside the \<head> tags \</head> is not seen by the user, what's inside but is used to include relevant information and dynamic content that is processed by the browser.
+> What's inside the \<head> tags \</head> is not seen by the user, what's inside is used to include relevant information and dynamic content that is processed by the browser.
 
 ## 4. Based on the messages from the validator, write the bare-minimum HTML you need to have a "valid" web page.
     <!DOCTYPE html>
